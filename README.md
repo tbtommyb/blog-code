@@ -21,3 +21,9 @@ The Pi code using event emitters and broadcasters to transmit values to multiple
 Contains code for post [five](https://www.tmjohnson.co.uk/posts/effects-part-five/).
 
 In which the author creates sound.
+
+### 6_delay
+
+Contains code for post [six](https://www.tmjohnson.co.uk/posts/effects-part-six/).
+
+Actually effect the audio.
